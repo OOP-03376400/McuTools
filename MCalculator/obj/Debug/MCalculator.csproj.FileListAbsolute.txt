@@ -1,0 +1,15 @@
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\MCalculator.csprojAssemblyReference.cache
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\Classes\CustomActions.baml
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\Classes\ProgressControl.baml
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\UnitConverter.baml
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\UserInterface\EditSetDlg.baml
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\UserInterface\InputForm.baml
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\Classes\CustomActions.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\Classes\ProgressControl.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\Classes\Syntax\SyntaxHighlightTextBox.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\UnitConverter.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\UserInterface\EditSetDlg.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\UserInterface\InputForm.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\MCalculator.Tool_MarkupCompile.cache
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\MCalculator\obj\Debug\MCalculator.Tool_MarkupCompile.lref

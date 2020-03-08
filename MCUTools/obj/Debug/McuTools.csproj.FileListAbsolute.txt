@@ -1,0 +1,12 @@
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\McuTools.csprojAssemblyReference.cache
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\App.baml
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\Controls\BinaryClock.baml
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\Controls\StatusbarMenu.baml
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\App.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\Controls\BatteryInfo.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\Controls\BinaryClock.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\Controls\StatusbarMenu.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\McuTools_Content.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\McuTools_MarkupCompile.cache
+F:\00Embedded\repositories\EmbeddedSystemClass\McuTools\McuTools\obj\Debug\McuTools_MarkupCompile.lref
